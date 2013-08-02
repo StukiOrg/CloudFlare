@@ -1,0 +1,25 @@
+{
+    "name": "stuki/cloudflare",
+    "type": "library",
+    "description": "Fix global variables when using Cloudflare",
+    "license": "MIT",
+    "keywords": [
+        "cloudflare"
+    ],
+    "homepage": "http://www.github.com/stuki/cloudflare",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": ">=2.2",
+    },
+    "authors": [
+        {
+            "name": "Tom Anderson",
+            "email": "tanderson@soliantconsulting.com"
+        }
+    ]
+    "autoload": {
+        "psr-0": {
+            "Cloudflare\\": "src/"
+        }
+    }
+}
