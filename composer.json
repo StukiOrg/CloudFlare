@@ -1,12 +1,14 @@
 {
     "name": "stuki/cloudflare",
     "type": "library",
-    "description": "Fix global variables when using Cloudflare",
+    "description": "Fix global variables when using CloudFlare",
     "license": "MIT",
     "keywords": [
-        "cloudflare"
+        "cloudflare",
+        "cloud",
+        "flare"
     ],
-    "homepage": "http://www.github.com/stuki/cloudflare",
+    "homepage": "http://www.github.com/StukiOrg/CloudFlare",
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": ">=2.2",
@@ -19,7 +21,7 @@
     ]
     "autoload": {
         "psr-0": {
-            "Cloudflare\\": "src/"
+            "CloudFlare\\": "src/"
         }
     }
 }

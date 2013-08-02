@@ -1,6 +1,6 @@
 <?php
 
-namespace Cloudflare;
+namespace CloudFlare;
 
 use Zend\ModuleManager\ModuleManager;
 
