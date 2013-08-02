@@ -11,14 +11,14 @@
     "homepage": "http://www.github.com/StukiOrg/CloudFlare",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": ">=2.2",
+        "zendframework/zendframework": ">=2.2"
     },
     "authors": [
         {
             "name": "Tom Anderson",
             "email": "tanderson@soliantconsulting.com"
         }
-    ]
+    ],
     "autoload": {
         "psr-0": {
             "CloudFlare\\": "src/"
