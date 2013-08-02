@@ -18,5 +18,10 @@
             "name": "Tom Anderson",
             "email": "tanderson@soliantconsulting.com"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
 }
