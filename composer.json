@@ -1,8 +1,8 @@
 {
     "name": "stuki/cloudflare",
     "type": "library",
-    "description": "Fix global variables when using CloudFlare",
-    "license": "MIT",
+    "description": "A ZF2 plugin to fix global variables when using CloudFlare",
+    "license": "proprietary",
     "keywords": [
         "cloudflare",
         "cloud",
