@@ -19,3 +19,10 @@ return array(
         ...
     ),
 ```
+
+
+.htaccess
+---------
+
+Included in this repo are .htaccess rewrite rules to allow only CloudFlare apps to connect to your application and redirect all other traffic sources to your CloudFlare hosted domain.
+
