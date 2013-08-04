@@ -1,5 +1,4 @@
 # Only allow CloudFlare
-# Only allow CloudFlare
 RewriteCond %{REMOTE_ADDR} !^204\.93\.240 
 RewriteCond %{REMOTE_ADDR} !^204\.93\.177 
 RewriteCond %{REMOTE_ADDR} !^199\.27\.(12[8-9]|13[0-5]) 
