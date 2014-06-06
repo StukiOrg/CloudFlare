@@ -1,6 +1,6 @@
 <?php
 
-namespace CloudFlare;
+namespace Stuki\CloudFlare;
 
 use Zend\ModuleManager\ModuleManager;
 

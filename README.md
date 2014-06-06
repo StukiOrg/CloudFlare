@@ -15,7 +15,7 @@ Enable module in `config/application.config.php`:
 ```php
 return array(
     'modules' => array(
-        'CloudFlare',
+        'Stuki\\CloudFlare',
         ...
     ),
 ```
